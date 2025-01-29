@@ -63,7 +63,7 @@ The **Caravan dataset** consists of **5,822 rows and 86 features**, with a **bin
 ---
 
 ## 📊 Visualization: Elbow Method
-![](elbow_method_plot.png)  
+![](CaravanElbow.png)  
 Graph showing the **error rate vs. k values**, indicating the best `k = 11`.
 
 ---
